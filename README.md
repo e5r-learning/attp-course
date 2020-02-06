@@ -1,7 +1,8 @@
 Treinamento Avançado para Programadores Profissionais
 =====================================================
 
-ATTP vem de (A)dvanced (T)raining for (P)rofessional (P)rogrammers.
+ATPP vem de (A)dvanced (T)raining for (P)rofessional (P)rogrammers.
+ou, TAPP de (T)reinamento (A)vançado para (P)rogramadores (P)rofissionais.
 
 A idéia é criar um treinamento intensivo para programadores que desejam dominar (ou pelo menos conhecer)
 assuntos avançados de programação que são utilizados em projetos que utilizamos no nosso dia a dia
